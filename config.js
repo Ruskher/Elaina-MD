@@ -8,11 +8,11 @@ global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna pre
 global.link = JSON.parse(fs.readFileSync('./src/grouplink.json'))
 global.group = link.map((v, i) => `Group ${i + 1}\n${v}`).join('\n\n');
 global.numberowner = '6285874068202'
-global.nameowner = 'KiyoEditz' //Owner name
-global.name = 'Kiyo•Editz™' // owner name for contacts
-global.namebot = 'Elaina-MD' // bot name 
-global.mail = 'abiandriansyah3@gmail.com' // email or gmail
-global.instagram = 'https://www.instagram.com/kiyoeditz'//Instagram 
+global.nameowner = 'Professor' //Owner name
+global.name = 'Professor™' // owner name for contacts
+global.namebot = 'BOT' // bot name 
+global.mail = 'Professor@official.com' // email or gmail
+global.instagram = 'https://www.instagram.com'//Instagram 
 //global.community = {
   //game: '120363242705186427@g.us',
 //}
@@ -21,7 +21,7 @@ global.menu = 'https://telegra.ph/file/cce9ab4551f7150f1970d.jpg' //image menu ,
 global.eror = '_*Server Error*_' // for eror message 
 //global.rwait = '⌛' //wait message 
 global.wait = '_*Tunggu sedang di proses...*_' //wait message 
-global.wm = '*Elaina-MD*' // watermark bot 
+global.wm = '*Professor*' // watermark bot 
 global.playlist = '37i9dQZF1DWTwnEm1IYyoj' //song play list
 const moment = require('moment-timezone') 
 
@@ -56,15 +56,15 @@ global.APIKeys = { // APIKey Here
   'https://api.botcahx.eu.org': 'PjoZNP4j',
   'https://api.alyachan.dev/': 'syah11'
 }
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ Kiyo•Editz™'
+global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ Professor'
 global.set = {
-    footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ Kiyo•Editz™', //another watermark message?
+    footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ BOT PRO™', //another watermark message?
     
 }
 //global.Func = new (require('./lib/functions')) //just function 
 //global.scrap = new (require('./lib/scrape')) //just scraper 
-global.packname = 'Kiyo•Editz™' // another Watermark 
-global.author = '⫹⫺ ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃' //watermark author?
+global.packname = 'Professor' // another Watermark 
+global.author ='Professor' //watermark author?
 global.htjava = pickRandom(["乂", "❏", "⫹⫺", "⎔", "✦", "⭔", "⬟"])
 global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "✗", "♪"])
 
@@ -73,7 +73,7 @@ global.urlnya = "-" //apa lah
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ' //don't change 
-global.phn = '+62 858-7406-8202' //tell me it work 
+global.phn = '+62 838-90107-168' //tell me it work 
 
 global.multiplier = 69 // The higher, The harder levelup
 
